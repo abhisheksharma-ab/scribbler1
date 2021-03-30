@@ -1,2 +1,2 @@
 # scribbler1
-please unzip the folder to view
+please unzip/extract the folder to view
